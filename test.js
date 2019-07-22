@@ -1,7 +1,7 @@
 main()
 
 async function main () {
-  sleep(60 * 1000)
+  await sleep(60 * 1000)
   console.log("ok")
 }
 
