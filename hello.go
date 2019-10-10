@@ -1,2 +1,3 @@
 package hello
 
+func main() {}
