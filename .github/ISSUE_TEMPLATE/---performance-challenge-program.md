@@ -9,6 +9,7 @@ assignees: ''
 
 # PCP Issue
 
+- difficult: easy
 - min score: 0
 - expired: 7d
 
