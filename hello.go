@@ -1,3 +1,3 @@
-package hello
+package hell0o
 
 func main() {}
